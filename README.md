@@ -2,7 +2,7 @@
 
 **Free and Quick Remote Administration Tool for windows**
 
-Lumina is a quick remote administration tool coded in python.
+Lumina is a fast, quick and a light remote administration tool coded in python.
 
 ## Features
 * Easy Controls
